@@ -34,5 +34,5 @@ Practice notebooks covering a variety of machine learning techniques
 
 ## 📬 Contact
 - LinkedIn: [linkedin.com/in/lillian-elek](https://www.linkedin.com/in/lillian-elek-4069a552/)  
-- GitHub: [github.com/elek-analytics](https://github.com/Lillian-Elek-Data)  
+- GitHub: [https://github.com/Lillian-Elek-Data](https://github.com/Lillian-Elek-Data)  
 - Email: lillianelek@gmail.com 
