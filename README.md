@@ -1,4 +1,4 @@
-# Elek Analytics Portfolio
+# Lillian Elek Analytics Portfolio
 
 👋 Welcome! I’m Lillian Elek — 🚀 Data Analyst | Data Engineer | Aspiring Data Scientist
 
