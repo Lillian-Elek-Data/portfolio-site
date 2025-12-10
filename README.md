@@ -22,6 +22,15 @@ Practice notebooks covering a variety of machine learning techniques
 - Cluster Analysis
 - Logistic Regression
 
+### [SQL](https://github.com/Lillian-Elek-Data/SQL)
+The repository contains:
+- SQL Syntax Folder
+  - Contains SQL Code for everyday use and general understanding. Most of the code is utilizing the AdventureWorks2019 database
+- The 7 Stages of SQL Order of Execution
+  - An explanation of how SQL runs/ executes the query
+- SQL Server Functions Cheat Sheet
+  - Text file that contains the most common SQL functions
+- SQL Catalog Views and Metadata Functions
 ---
 
 ## 🛠️ Skills
