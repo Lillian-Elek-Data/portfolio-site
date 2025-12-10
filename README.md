@@ -43,5 +43,5 @@ The repository contains:
 
 ## 📬 Contact
 - LinkedIn: [linkedin.com/in/lillian-elek](https://www.linkedin.com/in/lillian-elek-4069a552/)  
-- GitHub: [https://github.com/Lillian-Elek-Data](https://github.com/Lillian-Elek-Data)  
+- Main GitHub: [https://github.com]((https://github.com/lola1989) 
 - Email: lillianelek@gmail.com 
