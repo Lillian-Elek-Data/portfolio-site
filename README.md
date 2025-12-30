@@ -1,12 +1,14 @@
 # Lillian Elek Analytics Portfolio
 
-👋 Welcome! I’m Lillian Elek — 🚀 Data Analyst | Data Engineer | Aspiring Data Scientist
+👋 Welcome! I'm Lillian Elek — 🚀 Data Analyst | Data Engineer | Emerging Data Scientist
 
-I turn complex data into clear insights using **SQL, Python, Power BI, and Azure**. Whether it's building automated pipelines, developing machine learning models, or designing sleek dashboards that actually speak to stakeholders—I'm here to turn complex data into clear, actionable insights that drive smart decisions.
+With a Master's in Business Intelligence & Data Analytics and 4+ years of hands-on experience, I'm making the strategic move from analytics and engineering into data science. My background gives me something many data scientists lack: the ability to build production-ready systems that scale.
 
-Recently, I’ve been diving deep into data science and machine learning, expanding my expertise to include algorithm design, model development, and hypothesis testing. I love exploring how patterns and anomalies in data can reveal meaningful, strategic answers to big questions.
+I've spent years mastering SQL, Python, Power BI, and Azure—building automated pipelines, optimizing databases, and creating dashboards that drive real business decisions. Now, I'm applying that engineering rigor to machine learning, statistical modeling, and predictive analytics.
 
-With a deep toolkit spanning SQL, Python, Azure Data Factory, and Power BI (to name a few), I specialize in transforming raw data into strategic gold. My work supports everything from optimizing operations to testing hypotheses and uncovering predictive insights in large datasets.
+What sets me apart is my end-to-end perspective. I don't just build models—I understand the entire data lifecycle. I know how to extract and transform messy real-world data, engineer meaningful features, validate model assumptions, and deploy solutions that stakeholders actually use. My work spans regression analysis, hypothesis testing, time series forecasting, and algorithm development.
+
+I'm drawn to problems where data reveals hidden patterns and strategic insights—whether that's predicting operational outcomes, uncovering anomalies, or testing hypotheses that drive decision-making. My experience in clean-energy and SaaS environments has taught me to balance technical sophistication with practical business impact.
 
 ---
 
