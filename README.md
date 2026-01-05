@@ -30,10 +30,10 @@ A curated collection of applied machine learning and statistical modeling projec
 
 | Project | Model Type | Focus | Highlights |
 |------|-----------|------|-----------|
-| [CO₂ Emissions (2009)](projects/co2-emissions-ols) | OLS Regression | Climate Analytics & Data Science | Assumption checks, log transforms |
-| [Books Read](projects/books-read-linear-regression) | Simple Linear Regression | Intro Modeling | Clear interpretation |
-| [Stroke Prediction](projects/stroke-prediction-logistic-regression) | Logistic Regression | Healthcare ML & Data Science | Class imbalance, recall optimization |
-| [Weather ML](projects/weather-ml) | Classification + Regression | Category Modeling | Multi-model comparison |
+| [CO₂ Emissions (2009)](https://github.com/Lillian-Elek-Data/ml-with-python/tree/main/projects/co2-emissions-ols) | OLS Regression | Climate Analytics & Data Science | Assumption checks, log transforms |
+| [Books Read](https://github.com/Lillian-Elek-Data/ml-with-python/tree/main/projects/books-read-linear-regression) | Simple Linear Regression | Intro Modeling | Clear interpretation |
+| [Stroke Prediction](https://github.com/Lillian-Elek-Data/ml-with-python/tree/main/projects/stroke-prediction-logistic-regression) | Logistic Regression | Healthcare ML & Data Science | Class imbalance, recall optimization |
+| [Weather ML](https://github.com/Lillian-Elek-Data/ml-with-python/tree/main/projects/weather-ml) | Classification + Regression | Category Modeling | Multi-model comparison |
 
 ---
 
