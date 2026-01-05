@@ -14,15 +14,28 @@ I'm drawn to problems where data reveals hidden patterns and strategic insights�
 
 ## 📊 Featured Projects
 
-### [ML-with-Python](https://github.com/Lillian-Elek-Data/ML-with-Python)
-Practice notebooks covering a variety of machine learning techniques
-- Simple Linear Regression
-- Multiple Linear Regression
-- Standardization
-- Training and Testing
-- Dummy Variables
+### [Machine Learning with Python — Portfolio Projects](https://github.com/Lillian-Elek-Data/ml-with-python)
+A curated collection of applied machine learning and statistical modeling projects implemented in Python, focused on interpretability, real-world decision making, and reproducible analysis.
+
+## Tools & Techniques
+- Python (pandas, numpy, scikit-learn, statsmodels)
+- Linear & Logistic Regression
 - Cluster Analysis
-- Logistic Regression
+- Training and Testing
+- Classification & Evaluation Metrics
+- Feature Engineering & Model Assumptions
+- Model Validation & Threshold Optimization
+  
+## Projects
+
+| Project | Model Type | Focus | Highlights |
+|------|-----------|------|-----------|
+| [CO₂ Emissions (2009)](projects/co2-emissions-ols) | OLS Regression | Climate Analytics & Data Science | Assumption checks, log transforms |
+| [Books Read](projects/books-read-linear-regression) | Simple Linear Regression | Intro Modeling | Clear interpretation |
+| [Stroke Prediction](projects/stroke-prediction-logistic-regression) | Logistic Regression | Healthcare ML & Data Science | Class imbalance, recall optimization |
+| [Weather ML](projects/weather-ml) | Classification + Regression | Category Modeling | Multi-model comparison |
+
+---
 
 ### [SQL](https://github.com/Lillian-Elek-Data/SQL)
 The repository contains:
@@ -33,6 +46,7 @@ The repository contains:
 - SQL Server Functions Cheat Sheet
   - Text file that contains the most common SQL functions
 - SQL Catalog Views and Metadata Functions
+
 ---
 
 ## 🛠️ Skills
