@@ -8,7 +8,7 @@ I've spent years mastering SQL, Python, Power BI, and Azure, building automated 
 
 What sets me apart is my end-to-end perspective. I don't just build models, I understand the entire data lifecycle. I know how to extract and transform messy real-world data, engineer meaningful features, validate model assumptions, and deploy solutions that stakeholders actually use. My work spans regression analysis, hypothesis testing, time series forecasting, and algorithm development.
 
-I'm drawn to problems where data reveals hidden patterns and strategic insights—whether that's predicting operational outcomes, uncovering anomalies, or testing hypotheses that drive decision-making. My experience in clean-energy and SaaS environments has taught me to balance technical sophistication with practical business impact.
+I'm drawn to problems where data reveals hidden patterns and strategic insights, whether that's predicting operational outcomes, uncovering anomalies, or testing hypotheses that drive decision-making. My experience in clean-energy and SaaS environments has taught me to balance technical sophistication with practical business impact.
 
 ---
 
