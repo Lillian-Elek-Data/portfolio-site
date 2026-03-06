@@ -2,7 +2,7 @@
 
 👋 Welcome! I'm Lillian Elek — 🚀 Data Analyst | Data Engineer | Emerging Data Scientist
 
-With a Master's in Business Intelligence & Data Analytics and 4+ years of hands-on experience, I'm making the strategic move from analytics and engineering into data science. My background gives me something many data scientists lack: the ability to build production-ready systems that scale.
+With a Master's in Business Intelligence & Data Analytics and 5+ years of hands-on experience, I'm making the strategic move from analytics and engineering into data science. My background gives me something many data scientists lack: the ability to build production-ready systems that scale.
 
 I've spent years mastering SQL, Python, Power BI, and Azure—building automated pipelines, optimizing databases, and creating dashboards that drive real business decisions. Now, I'm applying that engineering rigor to machine learning, statistical modeling, and predictive analytics.
 
